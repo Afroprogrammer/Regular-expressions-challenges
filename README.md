@@ -16,3 +16,8 @@ Solutions to regular expression challenges on freecodecamp.org
 - [Match Characters that Occur Zero or More Times](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-characters-that-occur-zero-or-more-times.js)
 - [Find Characters with Lazy Matching](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/find-characters-with-lazy-matching.js)
 - [Find One or More Criminals in a Hunt](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/find-one-or-more-criminals-in-a-hunt.js)
+- [Match Beginning String Patterns](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-beginning-string-patterns.js)
+- [Match Ending String Patterns](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-ending-string-patterns.js)
+- [Match All Letters and Numbers](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-all-letters-and-numbers.js)
+- [Match Everything But Letters and Numbers](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-everything-but-letters-and-numbers.js)
+- [Match All Numbers](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-all-numbers.js)
