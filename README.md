@@ -11,3 +11,8 @@ Solutions to regular expression challenges on freecodecamp.org
 - [Match Single Character with Multiple Possibilities](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-single-character-with-multiple-possibilities.js)
 - [Match Letters of the Alphabet](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-letters-of-the-alphabet.js)
 - [Match Numbers and Letters of the Alphabet](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-numbers-and-letters-of-the-alphabet.js)
+- [Match Single Characters Not Specified](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-single-characters-not-specified.js)
+- [Match Characters that Occur One or More Times](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-characters-that-occur-one-or-more-times.js)
+- [Match Characters that Occur Zero or More Times](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-characters-that-occur-zero-or-more-times.js)
+- [Find Characters with Lazy Matching](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/find-characters-with-lazy-matching.js)
+- [Find One or More Criminals in a Hunt](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/find-one-or-more-criminals-in-a-hunt.js)
