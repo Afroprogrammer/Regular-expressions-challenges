@@ -1,5 +1,7 @@
 # Regular-expressions-challenges
 Solutions to regular expression challenges on freecodecamp.org
+<img src= "/images/regular-expressing.png">
+-----------------
 
 - [Using the Test Method](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/using-the-test-method.js)
 - [Match Literal Strings](https://github.com/Afroprogrammer/Regular-expressions-challenges/blob/master/match-literal-strings.js)
